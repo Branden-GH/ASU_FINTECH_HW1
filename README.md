@@ -27,6 +27,7 @@
 ![image_test](https://4cornerscreative.com/wp-content/uploads/2016/02/paypal-QR-codes.jpg "fintech")
 
 ### Table of Contents
+
 https://www.thestreet.com/technology/history-of-paypal-15062744
 https://en.wikipedia.org/wiki/Peter_Thiel
 https://en.wikipedia.org/wiki/Max_Levchin
