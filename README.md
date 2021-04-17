@@ -3,7 +3,7 @@
 
   Paypal began in 1998 and was actually called Confinity.  Confinity was birthed by technology entreprenuers Peter Thiel and Max Levchin as a security software company for handheld devices.  Peter Thiel who is a German American entreprenuer and venture capitalist who's resume consists of Paypal, Palantir, and early investor of Facebook partnered with Max Levchin who is a Ukranian software engineer.  Max Levchin is known for the creation of the CAPTCHA test when logging in to distinguish humans and computers apart.  Also known for founding popular pay later company Affirm.  The founders of Paypal consisted of Elon Musk, Peter Thiel, Max Levchin, Yu Pan, Ken Howery, and Luke Nosek. In 2000 Confinity merged into X.com an online banking company founded by Elon Musk who is to credit for the vision and ability to see that the future of banking was to be digitalized.  As X.com faced challenges as a very early and first to market company for online banking, Harris and Musk disagreed about the future which caused Harris to leave.  Musk then decided that it was time to focus on what was then dubbed Paypal.  Paypal IPO'ed in 2002 listed as PYPL at $13 a share and generated 61 million.
   
-![image_test](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F647fd1b7-967a-4773-bc66-ffd4a1ada526_1000x546.png"
+![image_test](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F647fd1b7-967a-4773-bc66-ffd4a1ada526_1000x546.png "Fintech")
 
 ## Business Activities:
 
