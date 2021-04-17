@@ -24,7 +24,7 @@
 
   If I could offer value to Paypal I suggest pushing the 2-d barcode into more markets for ease of purchase.  There are so many more applications that this technology has yet to be introduced into and the more sticky that Paypal can become the bigger the moat will be for competitors to enter.  If Paypal could get the 2-d barcode into gas, grocery, and anything retail, consumers could then pay for the item immediately which would then change the landscape of how items are paid for digitally and physically.  Another idea which I do believe Paypal may already be working on is creating a stock market platform to perform trades through.  With the investment into cryptos and offering buying and selling of, Paypal has really already began this process.  The next phase would be to then offer securities on a similar platform pairing up with cryptos, this would be another massive play on commission based revenue.  Pushing the 2-d barcode into more applications would offer speed and efficiency into the consumers hands. 
   
-  ![image_test](https://4cornerscreative.com/wp-content/uploads/2016/02/paypal-QR-codes.jpg "fintech")
+![image_test](https://4cornerscreative.com/wp-content/uploads/2016/02/paypal-QR-codes.jpg "fintech")
 
 ### Table of Contents
 https://www.thestreet.com/technology/history-of-paypal-15062744
