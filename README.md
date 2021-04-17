@@ -28,9 +28,5 @@
 
 ### Table of Contents
 
-https://www.thestreet.com/technology/history-of-paypal-15062744
-https://en.wikipedia.org/wiki/Peter_Thiel
-https://en.wikipedia.org/wiki/Max_Levchin
-https://businessmodelanalyst.com/paypal-business-model/
-https://spendmenot.com/blog/paypal-statistics/
-https://www.fool.com/investing/2021/02/07/5-new-paypal-products-coming-in-2021/
+https://www.thestreet.com/technology/history-of-paypal-15062744; https://en.wikipedia.org/wiki/Peter_Thiel; https://en.wikipedia.org/wiki/Max_Levchin
+https://businessmodelanalyst.com/paypal-business-model/; https://spendmenot.com/blog/paypal-statistics/; https://www.fool.com/investing/2021/02/07/5-new-paypal-products-coming-in-2021/
